@@ -1,3 +1,7 @@
+## Intern Details
+Name: Shalimar Kathade
+Intern ID: CITS3582
+
 # Sales Performance Dashboard (Power BI)
 
 ## Project Overview
