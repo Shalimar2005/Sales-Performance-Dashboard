@@ -50,6 +50,6 @@ Through this project, I gained hands-on experience in:
 
 ## Dashboard Preview
 
-
+![image alt](https://raw.githubusercontent.com/Shalimar2005/Sales-Performance-Dashboard/refs/heads/main/Sales%20Performance%20Dashboard.jpg)
 
 Aspiring Data Analyst skilled in Python, SQL, Excel, and Power BI.
